@@ -1,1 +1,1 @@
-This repository contains most (not all) of my uni work
+This repository contains most of my uni work
